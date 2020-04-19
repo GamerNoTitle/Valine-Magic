@@ -10,7 +10,7 @@
 
 ## 更新日志
 
-### 2020/4/19
+### 2020/4/19 V1.0
 
 版本js地址：https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@Valine-Magic-V1.0/js/valine.min.js
 

@@ -12,6 +12,12 @@ PR要求：文件夹和文件名字为英文，文件夹内除了图片无任何
 
 仓库内的那个PY脚本是我提前编写好用来写表情列表的脚本，如果你有需要可以随意取用
 
+预览图：
+
+![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/Valine-Magic/Result.png)
+
+![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/Valine-Magic/Result-Stickers.png)
+
 ## 更新日志
 
 ### 2020/4/19 V1.0

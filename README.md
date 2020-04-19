@@ -2,6 +2,8 @@
 
 这是Valine-Magic（魔改版本）的表情包库，使用jsdelivr进行CDN加速
 
+具体效果可以访问[https://bili33.top/About](https://bili33.top/About)的评论区进行查看（往下滑就看得到了）
+
 会考虑做分类表情，但是肯定没那么快
 
 如果你有新的表情包想要加入，你可以提出issue，或者直接提交PR让我把表情包并入此库

@@ -1,4 +1,4 @@
-# Valine-Magic-BQB
+# Valine-Magic
 
 这是Valine-Magic（魔改版本）的表情包库，使用jsdelivr进行CDN加速
 

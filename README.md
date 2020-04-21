@@ -20,7 +20,21 @@ PR要求：文件夹和文件名字为英文，文件夹内除了图片无任何
 
 ## 更新日志
 
+### 2020/4/21 V1.0.1
+
+**Valine 1.4.4**
+
+版本js地址：https://cdn.jsdelivr.net/gh/GamerNoTitle/Valine-Magic@master/js/1.0.1/valine.min.js
+
+更新了alu系列表情包（[#1](https://github.com/GamerNoTitle/Valine-Magic/issues/1)），删除了使用频率较低的系列表情，被删除的表情显示不受影响，仍可继续使用
+
+表情包会丢在coding的[仓库](https://gamernotitle.coding.net/p/Valine-BQB1/)里面，本仓库只用于发布新版本
+
+修改了python脚本，使得更易使用，加入下载用的python脚本
+
 ### 2020/4/19 V1.0
+
+**基于Valine 1.4.4**
 
 版本js地址：https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@Valine-Magic-V1.0/js/valine.min.js
 

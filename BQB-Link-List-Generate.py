@@ -1,5 +1,4 @@
 import os
-# localpath = 'G:\Code\Valine-Magic\BQB'
 remotepath = 'https://bqb1.bili33.top/'
 prefix= ''
 def findAllFile(base):
@@ -12,9 +11,7 @@ def main():
     linklist=[]
     num=1
     for i in findAllFile(base):
-        linklist.append(prefix + str(num)+ ': \"' + remotepath + prefix+ '/' + i + '\"')
+        print('\"{}{}\": \"{}{}/{}\",'.format(prefix,num,remotepath,prefix,i))
         num=num+1
-    print(str(linklist).replace(',\', \'',', ').replace('\', \'',', '))
-    # print(linklist)
 if __name__ == '__main__':
     main()

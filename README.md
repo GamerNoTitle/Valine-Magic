@@ -15,9 +15,9 @@ PR要求：文件夹和文件名字为英文，文件夹内除了图片无任何
 |                                                              |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/7.jpg) | ![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_doge].png) | ![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_第一].png) |
-|                     [哔哩哔哩热词系列]()                     |                    [哔哩哔哩小电视系列]()                    |                    [哔哩哔哩2233娘系列]()                    |
+| [哔哩哔哩热词系列]([https://github.com/GamerNoTitle/Valine-Magic/tree/master/bilibili/hotkey%E7%83%AD%E8%AF%8D%E7%B3%BB%E5%88%97](https://github.com/GamerNoTitle/Valine-Magic/tree/master/bilibili/hotkey热词系列)) | [哔哩哔哩小电视系列]([https://github.com/GamerNoTitle/Valine-Magic/tree/master/bilibili/tv%E5%B0%8F%E7%94%B5%E8%A7%86%E7%B3%BB%E5%88%97](https://github.com/GamerNoTitle/Valine-Magic/tree/master/bilibili/tv小电视系列)) | [哔哩哔哩2233娘系列]([https://github.com/GamerNoTitle/Valine-Magic/tree/master/bilibili/2233%E5%A8%98%E7%B3%BB%E5%88%97](https://github.com/GamerNoTitle/Valine-Magic/tree/master/bilibili/2233娘系列)) |
 |          ![](https://bqb1.bili33.top/alu/中枪.png)           |                                                              |                                                              |
-|                       [阿鲁alu系列]()                        |                                                              |                                                              |
+| [阿鲁alu系列](https://github.com/GamerNoTitle/Valine-Magic/tree/master/alu) |                                                              |                                                              |
 
 ---
 

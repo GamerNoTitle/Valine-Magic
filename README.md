@@ -4,6 +4,8 @@
 
 点击对应的表情名可以直接到达表情列表，请注意：你在使用本仓库内的表情时请保持Valine的表情CDN为空，否则会造成表情无法正常获取的BUG
 
+复制的列表可以直接复制到例如[butterfly](https://github.com/jerryc127/hexo-theme-butterfly)主题的`valine.json`内，或者是各种用于放Valine表情配置的地方
+
 如果你有新的表情包想要加入，你可以提出issue，或者直接提交PR让我把表情包并入此库
 
 PR要求：文件夹和文件名字为英文，文件夹内除了图片无任何文件

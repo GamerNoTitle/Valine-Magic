@@ -22,7 +22,7 @@ PR要求：文件夹和文件名字为英文，文件夹内除了图片无任何
 
 ### 2020/4/21 V1.0.1
 
-**Valine 1.4.4**
+**基于Valine 1.4.4**
 
 版本js地址：https://cdn.jsdelivr.net/gh/GamerNoTitle/Valine-Magic@master/js/1.0.1/valine.min.js
 
@@ -32,7 +32,7 @@ PR要求：文件夹和文件名字为英文，文件夹内除了图片无任何
 
 修改了python脚本，使得更易使用，加入下载用的python脚本
 
-### 2020/4/19 V1.0
+### 2020/4/19 V1.0.0
 
 **基于Valine 1.4.4**
 

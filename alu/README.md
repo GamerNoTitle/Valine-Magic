@@ -1,6 +1,6 @@
 # Alu系列
 
-```javascript
+```json
 "alu2": "https://bqb1.bili33.top/alu/不出所料.png",
 "alu3": "https://bqb1.bili33.top/alu/不说话.png",
 "alu4": "https://bqb1.bili33.top/alu/不高兴.png",

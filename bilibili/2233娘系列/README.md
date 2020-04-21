@@ -1,6 +1,6 @@
 # 哔哩哔哩2233娘系列
 
-```javascript
+```json
 {
 "2233_1": "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/BQB-Link-List-Generate.py",
 "2233_2": "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_卖萌].png",

@@ -1,6 +1,6 @@
 # 哔哩哔哩热词系列
 
-```javascript
+```json
 {
 "hotkey1": "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/1.jpg",
 "hotkey2": "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/10.jpg",

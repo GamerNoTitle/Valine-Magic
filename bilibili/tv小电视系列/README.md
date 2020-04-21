@@ -1,6 +1,6 @@
 # 哔哩哔哩小电视系列
 
-```javascript
+```json
 {
 "tv2": "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_doge].png",
 "tv3": "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_亲亲].png",

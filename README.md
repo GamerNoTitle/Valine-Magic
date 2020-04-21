@@ -1,5 +1,7 @@
 # Valine-Magic
 
+**因为Valine在2020/4/21下午更新了1.4.5，支持了自定义表情和自动拉取QQ头像，本仓库从此刻开始提供表情列表，而不是替换Valine原版js用的js链接**
+
 这是Valine-Magic（魔改版本）的表情包库，使用jsdelivr进行CDN加速
 
 具体效果可以访问[https://bili33.top/About](https://bili33.top/About)的评论区进行查看（往下滑就看得到了）

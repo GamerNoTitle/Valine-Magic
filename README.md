@@ -29,7 +29,9 @@ PR要求：文件夹和文件名字为英文，文件夹内除了图片无任何
 
 ~~会考虑做分类表情，但是肯定没那么快~~
 
-预览图：![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/Valine-Magic/Result.png)
+预览图：
+
+![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/Valine-Magic/Result.png)
 
 ![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/Valine-Magic/Result-Stickers.png)
 

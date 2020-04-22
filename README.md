@@ -18,34 +18,20 @@
 "hotkey1": "bilibiliHotKey/1.jpg",
 ```
 
-如果你有新的表情包想要加入，你可以提出issue，或者直接提交PR让我把表情包并入此库
-
-PR要求：文件夹和文件名字为英文，文件夹内除了图片无任何文件
+如果你有新的表情包想要加入，你可以提出issue，或者直接发到[admin@bili33.top](mailto:admin@bili33.top)，并注上你的ID和表情包名字（中文英文都需要）
 
 仓库内的那个PY脚本是我提前编写好用来写表情列表的脚本，如果你有需要可以随意取用
 
 ### 表情分类
 
 
-| ![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/7.jpg) | ![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_doge].png) | ![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_第一].png) |
+|    ![](https://valinecdn.bili33.top/bilibiliHotKey/7.jpg)    |  ![](https://valinecdn.bili33.top/bilibilitv/[tv_doge].png)  | ![](https://valinecdn.bili33.top/bilibili2233/[2233娘_第一].png) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [哔哩哔哩热词系列](https://github.com/GamerNoTitle/Valine-Magic/tree/master/bilibili/hotkey热词系列) | [哔哩哔哩小电视系列](https://github.com/GamerNoTitle/Valine-Magic/tree/master/bilibili/tv小电视系列) | [哔哩哔哩2233娘系列](https://github.com/GamerNoTitle/Valine-Magic/tree/master/bilibili/2233娘系列) |
-|          ![](https://bqb1.bili33.top/alu/中枪.png)           |                                                              |                                                              |
+|        ![](https://valinecdn.bili33.top/alu/中枪.png)        |                                                              |                                                              |
 | [阿鲁alu系列](https://github.com/GamerNoTitle/Valine-Magic/tree/master/alu) |                                                              |                                                              |
 
 ---
-
-~~这是Valine-Magic（魔改版本）的表情包库，使用jsdelivr进行CDN加速~~
-
-~~具体效果可以访问[https://bili33.top/About](https://bili33.top/About)的评论区进行查看（往下滑就看得到了）~~
-
-~~会考虑做分类表情，但是肯定没那么快~~
-
-预览图：
-
-![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/Valine-Magic/Result.png)
-
-![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/Valine-Magic/Result-Stickers.png)
 
 ## 更新日志
 

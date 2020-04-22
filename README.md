@@ -2,20 +2,20 @@
 
 **因为Valine在2020/4/21下午更新了1.4.5，支持了自定义表情和自动拉取QQ头像，本仓库从此刻开始提供表情列表，而不是替换Valine原版js用的js链接**
 
-点击对应的表情名可以直接到达表情列表，请注意：你在使用本仓库内的表情时请保持Valine的表情CDN为空，否则会造成表情无法正常获取的BUG
+点击对应的表情名可以直接到达表情列表，请注意：你在使用本仓库内的表情时请将Valine的CDN设置为`https://valinecdn.bili33.top/`	[#2](https://github.com/GamerNoTitle/Valine-Magic/issues/2)
 
 复制的列表可以直接复制到例如[butterfly](https://github.com/jerryc127/hexo-theme-butterfly)主题的`valine.json`内，或者是各种用于放Valine表情配置的地方
 
 请注意：如果你想添加多个分类，请记得在每个分类的最后一个表情后面加个`,`否则Valine无法识别。架设下面这个表情为该系列最后一个表情：
 
 ```json
-"hotkey1": "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/1.jpg"
+"hotkey1": "bilibiliHotKey/1.jpg"
 ```
 
 你想在这个表情下面添加其他表情的时候，那么请在这个表情的后面加个`,`就像下面这样
 
 ```json
-"hotkey1": "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/1.jpg",
+"hotkey1": "bilibiliHotKey/1.jpg",
 ```
 
 如果你有新的表情包想要加入，你可以提出issue，或者直接提交PR让我把表情包并入此库

@@ -53,7 +53,7 @@ Valine-Magic
 
 加入崩坏3系列4组表情包（QQ内提取）
 
-[HONKAI崩坏3 日常篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3-Daily) | [HONKAI崩坏3 观星篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3-Star) | [HONKAI崩坏3 蜡笔日常篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3-Crayon) | [HONKAI崩坏3 纯色日常篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3-Pure)
+[HONKAI崩坏3 日常篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-Daily) | [HONKAI崩坏3 观星篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-Star) | [HONKAI崩坏3 蜡笔日常篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-Crayon) | [HONKAI崩坏3 纯色日常篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-Pure)
 
 ### 2020/4/23 V2.0.1
 

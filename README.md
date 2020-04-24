@@ -1,4 +1,4 @@
-Valine-Magic
+# Valine-Magic
 
 **因为Valine在2020/4/21下午更新了1.4.5，支持了自定义表情和自动拉取QQ头像，本仓库从此刻开始提供表情列表，而不是替换Valine原版js用的js链接**
 

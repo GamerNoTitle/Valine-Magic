@@ -1,4 +1,4 @@
-# Valine-Magic
+Valine-Magic
 
 **因为Valine在2020/4/21下午更新了1.4.5，支持了自定义表情和自动拉取QQ头像，本仓库从此刻开始提供表情列表，而不是替换Valine原版js用的js链接**
 
@@ -31,13 +31,23 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [哔哩哔哩热词系列](https://github.com/GamerNoTitle/Valine-Magic/tree/master/bilibili/hotkey热词系列) | [哔哩哔哩小电视系列](https://github.com/GamerNoTitle/Valine-Magic/tree/master/bilibili/tv小电视系列) | [哔哩哔哩2233娘系列](https://github.com/GamerNoTitle/Valine-Magic/tree/master/bilibili/2233娘系列) |
 |        ![](https://valinecdn.bili33.top/alu/中枪.png)        | <img src='https://valinecdn.bili33.top/Menhera-chan/5.jpg' width=120 height=102></img> |    ![](https://valinecdn.bili33.top/HONKAI3-Daily/14.gif)    |
-| [阿鲁alu系列](https://github.com/GamerNoTitle/Valine-Magic/tree/master/alu) | [メンヘラちゃん(Menhera-chan)系列表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Menhera-chan) | [HONKAI崩坏3 日常篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3-Daily) |
+| [阿鲁alu系列](https://github.com/GamerNoTitle/Valine-Magic/tree/master/alu) | [メンヘラちゃん(Menhera-chan)系列表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Menhera-chan) | [HONKAI崩坏3 日常篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-Daily) |
 |     ![](https://valinecdn.bili33.top/HONKAI3-Star/3.gif)     |   ![](https://valinecdn.bili33.top/HONKAI3-Crayon/16.gif)    |    ![](https://valinecdn.bili33.top/HONKAI3-Pure/13.gif)     |
-| [HONKAI崩坏3 观星篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3-Star) | [HONKAI崩坏3 蜡笔日常篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3-Crayon) | [HONKAI崩坏3 纯色日常篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3-Pure) |
+| [HONKAI崩坏3 观星篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-Star) | [HONKAI崩坏3 蜡笔日常篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-Crayon) | [HONKAI崩坏3 纯色日常篇](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-Pure) |
+| <img src='https://valinecdn.bili33.top/HONKAI3-Stan/4f921b8ad8c16f3d2c73e3c04c5735ca9b41187b.gif' width=104 height=74.4> | <img src='https://valinecdn.bili33.top/HONKAI3-AIChan/d65b36ccae610bc4479209cd6e62bb91b0f76188.jpg' width=125 height=111></img> | <img src='https://valinecdn.bili33.top/HONKAI3-Durandal-Search/f1b9a456587638e488d93ccaa95dde59aef3af01.gif' height=100 width=100></img> |
+| [HONKAI崩坏3 史丹](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-Stan) | [HONKAI崩坏3 爱酱](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-AIChan) | [HONKAI崩坏3 目标！幽兰黛尔](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-Durandal-Search) |
+| <img src='https://valinecdn.bili33.top/HONKAI3-MEI/bf68423446465d396d3cbd8856882b5e9fb1c0c7.gif' width=120 height=120> | <img src='https://valinecdn.bili33.top/HONKAI3-NEWYEAR-2019/dc1a2b2032fad29373fe8460d4ad89ca848355a9.jpg' width=120 height=120> |                                                              |
+| [HONKAI崩坏3 芽衣的剑道修行](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-MEI) | [HONKAI崩坏3 2019新年](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-NEWYEAR-2019) |                                                              |
 
 ---
 
 ## 更新日志
+
+### 2020/4/24 V2.0.3
+
+加入崩坏3系列5组表情包（官方表情）
+
+[HONKAI崩坏3 史丹](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-Stan) | [HONKAI崩坏3 爱酱](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-AIChan) | [HONKAI崩坏3 目标！幽兰黛尔](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-Durandal-Search) | [HONKAI崩坏3 芽衣的剑道修行](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-MEI) | [HONKAI崩坏3 2019新年](https://github.com/GamerNoTitle/Valine-Magic/tree/master/HONKAI3/HONKAI3-NEWYEAR-2019)
 
 ### 2020/4/24 V2.0.2
 

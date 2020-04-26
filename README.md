@@ -46,6 +46,10 @@
 
 ## 更新日志
 
+### 2020/4/26 V2.0.5
+
+现在在每个分类的列表获取页面下面有表情包所含的所有表情的预览了！
+
 ### 2020/4/24 V2.0.4
 
 加入来自甘城なつき(Amashiro Natsuki)的[つり目獣耳スタンプ(Sticker of the slant eyes & cat girl)](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Tsuri-me-ju-mimi)表情包

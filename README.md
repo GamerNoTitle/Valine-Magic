@@ -48,6 +48,10 @@
 
 ## 更新日志
 
+### 2020/4/28 V2.0.7
+
+**旧版本（用我修改的JS的版本）将在2020/4/30停止进行301转发，请使用js版本的用户升级到最新版的Valine，使用emojiCDN和emojiMaps的方式使用Valine-Magic项目**
+
 ### 2020/4/27 V2.0.6
 
 加入来自まふまふ(Mafumafu)的[動く！まふまふスタンプ（ねこ）Mafumafu Animation sticker (cat)](https://github.com/GamerNoTitle/Valine-Magic/tree/master/MafuMafu)和来自lowiro的[Arcaea](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Arcaea)表情包

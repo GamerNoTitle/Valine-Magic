@@ -52,7 +52,7 @@
 
 加入[微博原生表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/weibo) （[#3](https://github.com/GamerNoTitle/Valine-Magic/issues/3)）
 
-### 2020/4/28 V2.0.7
+### 2020/4/28 V2.0.7	
 
 **旧版本（用我修改的JS的版本）将在2020/4/30停止进行301转发，请使用js版本的用户升级到最新版的Valine，使用emojiCDN和emojiMaps的方式使用Valine-Magic项目**
 

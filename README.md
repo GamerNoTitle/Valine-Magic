@@ -2,7 +2,7 @@
 
 **因本人是一名准高三学生，在2020/5/11开学后将专注于学习，所以可能我就不会有太多的时间去收集更多的表情，你当然可以提交issue给我，issue我会尽量一周之内回复并实装，回复慢请大家见谅！望大家多多包涵，Thanks♪(･ω･)ﾉ**
 
-点击对应的表情名可以直接到达表情列表，请注意：你在使用本仓库内的表情时请将Valine的CDN设置为`https://valinecdn.bili33.top/`	[#2](https://github.com/GamerNoTitle/Valine-Magic/issues/2)
+点击对应的表情名可以直接到达表情列表，请注意：你在使用本仓库内的表情时请将Valine的CDN设置为`https://valinecdn.bili33.top/` [#2](https://github.com/GamerNoTitle/Valine-Magic/issues/2) jsdelivr线 或者`https://mirrorcdn.bili33.top` [#5](https://github.com/GamerNoTitle/Valine-Magic/issues/5) coding线
 
 复制的列表可以直接复制到例如[butterfly](https://github.com/jerryc127/hexo-theme-butterfly)主题的`valine.json`内，或者是各种用于放Valine表情配置的地方
 
@@ -51,6 +51,10 @@
 ---
 
 ## 更新日志
+
+### 2020/5/23 V2.1.2
+
+加入新的CDN地址`https://mirrorcdn.bili33.top/`，可代替`https://valinecdn.bili33.top/`，走的是coding线，可以在jsdelivr不稳定的时候进行替换（[#5](https://github.com/GamerNoTitle/Valine-Magic/issues/5)）
 
 ### 2020/5/15 V2.1.1
 

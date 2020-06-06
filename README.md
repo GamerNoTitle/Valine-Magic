@@ -43,7 +43,7 @@
 |      ![](https://valinecdn.bili33.top/Tieba/i_f02.png)       |  ![](https://valinecdn.bili33.top/Snow-Miku/3583066@2x.png)  | ![](https://valinecdn.bili33.top/Sweetie-Bunny/12311679.png) |
 | [百度贴吧原生表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Tieba) | [Snow Miku雪初音表情包（LINE）](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Snow-Miku) | [うさみみ少女（SWEETIE BUNNY）](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Sweetie-Bunny) |
 | ![](https://valinecdn.bili33.top/Little-Bad/我们一起做坏坏的事.jpg) |     ![](https://valinecdn.bili33.top/Yurui-Neko/029.png)     |     ![](https://valinecdn.bili33.top/Cute-Emoji/010.png)     |
-| [小坏坏表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Little-Bad) | [Yurui-Neko](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Yurui-Neko) | [Cute-Emoji](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Cuote-Emoji) |
+| [小坏坏表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Little-Bad) | [Yurui-Neko](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Yurui-Neko) | [Cute-Emoji](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Cute-Emoji) |
 |       ![](https://valinecdn.bili33.top/Set667/032.png)       |       ![](https://valinecdn.bili33.top/Marup/038.png)        |                                                              |
 | [Set667](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Set667) | [Marup](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Marup) |                                                              |
 

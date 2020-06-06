@@ -42,8 +42,10 @@
 | [Arcaea](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Arcaea) | [動く！まふまふスタンプ（ねこ）Mafumafu Animation sticker (cat)](https://github.com/GamerNoTitle/Valine-Magic/tree/master/MafuMafu) | [微博原生表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/weibo) |
 |      ![](https://valinecdn.bili33.top/Tieba/i_f02.png)       |  ![](https://valinecdn.bili33.top/Snow-Miku/3583066@2x.png)  | ![](https://valinecdn.bili33.top/Sweetie-Bunny/12311679.png) |
 | [百度贴吧原生表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Tieba) | [Snow Miku雪初音表情包（LINE）](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Snow-Miku) | [うさみみ少女（SWEETIE BUNNY）](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Sweetie-Bunny) |
-|![](https://valinecdn.bili33.top/Little-Bad/我们一起做坏坏的事.jpg)| | |
-|[小坏坏表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Little-Bad)| | |
+| ![](https://valinecdn.bili33.top/Little-Bad/我们一起做坏坏的事.jpg) |     ![](https://valinecdn.bili33.top/Yurui-Neko/029.png)     |     ![](https://valinecdn.bili33.top/Cute-Emoji/010.png)     |
+| [小坏坏表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Little-Bad) | [Yurui-Neko](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Yurui-Neko) | [Cute-Emoji](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Cuote-Emoji) |
+|       ![](https://valinecdn.bili33.top/Set667/032.png)       |       ![](https://valinecdn.bili33.top/Marup/038.png)        |                                                              |
+| [Set667](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Set667) | [Marup](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Marup) |                                                              |
 
 ### 免责声明
 本仓库内所有图片均来源于网络，仅供学习交流使用。若用户违反相关法律法规造成损失，将由用户自行承担，本仓库所有者和PR提交者不承担一切责任！
@@ -51,6 +53,12 @@
 ---
 
 ## 更新日志
+
+### 2020/6/6 V2.1.3
+
+加入四套LINE的表情包
+
+[Yurui-Neko](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Yurui-Neko) | [Cute-Emoji](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Cuote-Emoji) | [Set667](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Set667) | [Marup](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Marup)
 
 ### 2020/5/23 V2.1.2
 

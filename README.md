@@ -58,7 +58,7 @@
 
 加入四套LINE的表情包
 
-[Yurui-Neko](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Yurui-Neko) | [Cute-Emoji](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Cuote-Emoji) | [Set667](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Set667) | [Marup](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Marup)
+[Yurui-Neko](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Yurui-Neko) | [Cute-Emoji](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Cute-Emoji) | [Set667](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Set667) | [Marup](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Marup)
 
 ### 2020/5/23 V2.1.2
 

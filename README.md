@@ -46,8 +46,10 @@
 | [小坏坏表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Little-Bad) | [Yurui-Neko](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Yurui-Neko) | [Cute-Emoji](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Cute-Emoji) |
 | <img src="https://valinecdn.bili33.top/Set667/032.png" style="zoom:50%;" /> | <img src="https://valinecdn.bili33.top/Marup/038.png" style="zoom:50%;" /> | <img src="https://valinecdn.bili33.top/Convenience-Store-Notes2/010.png" style="zoom:50%;" /> |
 | [Set667](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Set667) | [Marup](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Marup) | [Convenience Store Notes2](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Convenience-Store-Notes2) |
-| ![](https://valinecdn.bili33.top/Coolapk/coolapk_emotion_71.png) |                                                              |                                                              |
-| [Coolapk酷安](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Coolapk) |                                                              |                                                              |
+| ![](https://valinecdn.bili33.top/Coolapk/coolapk_emotion_71.png) |      ![](https://valinecdn.bili33.top/aodamiao/01.gif)       |       ![](https://valinecdn.bili33.top/lengtu/04.gif)        |
+| [Coolapk酷安](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Coolapk) | [aodamiao嗷大喵](https://github.com/GamerNoTitle/Valine-Magic/tree/master/aodamiao) | [lengtu冷兔](https://github.com/GamerNoTitle/Valine-Magic/tree/master/lengtu) |
+|       ![](https://valinecdn.bili33.top/QQ/tuosai.gif)        |                                                              |                                                              |
+| [QQ官方表情](https://github.com/GamerNoTitle/Valine-Magic/tree/master/QQ) |                                                              |                                                              |
 
 ### 免责声明
 本仓库内所有图片均来源于网络，仅供学习交流使用。若用户违反相关法律法规造成损失，将由用户自行承担，本仓库所有者和PR提交者不承担一切责任！
@@ -55,6 +57,10 @@
 ---
 
 ## 更新日志
+
+### 2020/6/15 V2.1.6
+
+更新[aodamiao嗷大喵](https://github.com/GamerNoTitle/Valine-Magic/tree/master/aodamiao) | [lengtu冷兔](https://github.com/GamerNoTitle/Valine-Magic/tree/master/lengtu) | [QQ官方表情](https://github.com/GamerNoTitle/Valine-Magic/tree/master/QQ)
 
 ### 2020/6/14 V2.1.5
 

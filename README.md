@@ -8,12 +8,12 @@
 
 在线详细情况可以点击[https://stats.bili33.top](https://stats.bili33.top/)进行查看
 
-| CDN服务器 | CDN链接                                                      |     优势     |                       劣势                        |
-| :-------: | :----------------------------------------------------------- | :----------: | :-----------------------------------------------: |
-|  Github   | https://valinecdn.bili33.top/                                |  链接短，快  |    有CloudFlare的301跳转作为统计，有可能会崩服    |
-|  Github   | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   |    非常快    |                   有可能会崩服                    |
-|  Coding   | https://mirrorcdn.bili33.top                                 | 链接短，较快 | 有CloudFlare的301跳转作为统计，Coding服务器总是崩 |
-|  Coding   | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |     较快     |                Coding服务器总是崩                 |
+|        CDN服务器（点击可看在线状态）         | CDN链接                                                      |     优势     |                       劣势                        |
+| :------------------------------------------: | :----------------------------------------------------------- | :----------: | :-----------------------------------------------: |
+| [Github](https://stats.bili33.top/785622714) | https://valinecdn.bili33.top/                                |  链接短，快  |    有CloudFlare的301跳转作为统计，有可能会崩服    |
+| [Github](https://stats.bili33.top/785622715) | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   |    非常快    |                   有可能会崩服                    |
+| [Coding](https://stats.bili33.top/785622717) | https://mirrorcdn.bili33.top                                 | 链接短，较快 | 有CloudFlare的301跳转作为统计，Coding服务器总是崩 |
+| [Coding](https://stats.bili33.top/785622720) | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |     较快     |                Coding服务器总是崩                 |
 
 复制的列表可以直接复制到例如[butterfly](https://github.com/jerryc127/hexo-theme-butterfly)主题的`valine.json`内，或者是各种用于放Valine表情配置的地方
 

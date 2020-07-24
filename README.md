@@ -2,7 +2,7 @@
 
 **因本人是一名高三学生，在2020/8/10开学后将专注于学习，所以可能我就不会有太多的时间去收集更多的表情，你当然可以提交issue给我，issue我会尽量一周之内回复并实装，回复慢请大家见谅！望大家多多包涵，Thanks♪(･ω･)ﾉ**
 
-![](https://data.jsdelivr.com/v1/package/gh/GamerNoTitle/ValineCDN/badge)![](https://img.shields.io/github/last-commit/GamerNoTitle/Valine-Magic?style=for-the-badge)![](https://img.shields.io/github/repo-size/GamerNoTitle/ValineCDN?style=for-the-badge)
+![](https://data.jsdelivr.com/v1/package/gh/GamerNoTitle/ValineCDN/badge) ![](https://img.shields.io/github/last-commit/GamerNoTitle/Valine-Magic?style=for-the-badge) ![](https://img.shields.io/github/repo-size/GamerNoTitle/ValineCDN?style=for-the-badge)
 
 点击对应的表情名可以直接到达表情列表，请注意：你在使用本仓库内的表情时请将Valine的CDN设置为下面表格中的任意一个
 

@@ -1,15 +1,19 @@
 # Valine-Magic
 
-**因本人是一名准高三学生，在2020/5/11开学后将专注于学习，所以可能我就不会有太多的时间去收集更多的表情，你当然可以提交issue给我，issue我会尽量一周之内回复并实装，回复慢请大家见谅！望大家多多包涵，Thanks♪(･ω･)ﾉ**
+**因本人是一名高三学生，在2020/8/10开学后将专注于学习，所以可能我就不会有太多的时间去收集更多的表情，你当然可以提交issue给我，issue我会尽量一周之内回复并实装，回复慢请大家见谅！望大家多多包涵，Thanks♪(･ω･)ﾉ**
+
+![](https://data.jsdelivr.com/v1/package/gh/GamerNoTitle/ValineCDN/badge)![](https://img.shields.io/github/last-commit/GamerNoTitle/Valine-Magic?style=for-the-badge)![](https://img.shields.io/github/repo-size/GamerNoTitle/ValineCDN?style=for-the-badge)
 
 点击对应的表情名可以直接到达表情列表，请注意：你在使用本仓库内的表情时请将Valine的CDN设置为下面表格中的任意一个
 
-| CDN服务器 | CDN链接                                                      |     优势     |                       劣势                        |
-| :-------: | :----------------------------------------------------------- | :----------: | :-----------------------------------------------: |
-|  Github   | https://valinecdn.bili33.top/                                |  链接短，快  |    有CloudFlare的301跳转作为统计，有可能会崩服    |
-|  Github   | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   |    非常快    |                   有可能会崩服                    |
-|  Coding   | https://mirrorcdn.bili33.top                                 | 链接短，较快 | 有CloudFlare的301跳转作为统计，Coding服务器总是崩 |
-|  Coding   | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |     较快     |                Coding服务器总是崩                 |
+在线详细情况可以点击[https://stats.bili33.top](https://stats.bili33.top/)进行查看，Github有图片缓存更新慢
+
+| CDN服务器 | CDN链接                                                      |     优势     |                       劣势                        | 在线情况(7d)                                                 |
+| :-------: | :----------------------------------------------------------- | :----------: | :-----------------------------------------------: | ------------------------------------------------------------ |
+|  Github   | https://valinecdn.bili33.top/                                |  链接短，快  |    有CloudFlare的301跳转作为统计，有可能会崩服    | ![](https://img.shields.io/uptimerobot/ratio/7/m785622714-94343838dbeae9e3d8a4b484?style=for-the-badge) |
+|  Github   | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   |    非常快    |                   有可能会崩服                    | ![](https://img.shields.io/uptimerobot/ratio/7/m785622715-3acb3aaed2fd940868918610?style=for-the-badge) |
+|  Coding   | https://mirrorcdn.bili33.top                                 | 链接短，较快 | 有CloudFlare的301跳转作为统计，Coding服务器总是崩 | ![](https://img.shields.io/uptimerobot/ratio/7/m785622717-a32625c39fb5ae3bd35e1570?style=for-the-badge) |
+|  Coding   | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |     较快     |                Coding服务器总是崩                 | ![](https://img.shields.io/uptimerobot/ratio/7/m785622720-44b1403601af7788b7764363?style=for-the-badge) |
 
 复制的列表可以直接复制到例如[butterfly](https://github.com/jerryc127/hexo-theme-butterfly)主题的`valine.json`内，或者是各种用于放Valine表情配置的地方
 
@@ -64,6 +68,10 @@
 ---
 
 ## 更新日志
+
+### 2020/7/24 V2.2.0
+
+加入各种状态badge
 
 ### 2020/7/18 V2.1.9
 

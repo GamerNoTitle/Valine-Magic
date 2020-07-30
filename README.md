@@ -6,7 +6,7 @@
 
 点击对应的表情名可以直接到达表情列表，请注意：你在使用本仓库内的表情时请将Valine的CDN设置为下面表格中的任意一个
 
-在线详细情况可以点击[https://stats.bili33.top](https://stats.bili33.top/)进行查看
+在线详细情况可以点击[issue#6](https://github.com/GamerNoTitle/Valine-Magic/issues/6)进行查看
 
 > **2020/7/30 jsdelivr服务器挂了，访问造成403，请临时更换CDN为coding线**
 

@@ -8,6 +8,8 @@
 
 [更新日志](https://github.com/GamerNoTitle/Valine-Magic/tree/master/docs/Update.md)
 
+你可以提交表情包，请阅读[提交的正确方式](https://github.com/GamerNoTitle/Valine-Magic/tree/master/docs/Submit.md)
+
 |        CDN服务器（点击可看在线状态）         | CDN链接                                                      |     优势     |                       劣势                        |
 | :------------------------------------------: | :----------------------------------------------------------- | :----------: | :-----------------------------------------------: |
 | [Github](https://stats.bili33.top/785622714) | https://valinecdn.bili33.top/                                |  链接短，快  |    有CloudFlare的301跳转作为统计，有可能会崩服    |

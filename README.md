@@ -61,8 +61,8 @@
 | [Set667](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Set667) | [Marup](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Marup) | [Convenience Store Notes2](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Convenience-Store-Notes2) |
 | ![](https://valinecdn.bili33.top/Coolapk/coolapk_emotion_71.png) |      ![](https://valinecdn.bili33.top/aodamiao/01.gif)       |       ![](https://valinecdn.bili33.top/lengtu/04.gif)        |
 | [Coolapk酷安](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Coolapk) | [aodamiao嗷大喵](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/aodamiao) | [lengtu冷兔](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/lengtu) |
-|       ![](https://valinecdn.bili33.top/QQ/tuosai.gif)        |                                                              |                                                              |
-| [QQ官方表情](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/QQ) |                                                              |                                                              |
+|       ![](https://valinecdn.bili33.top/QQ/tuosai.gif)        |  ![](https://valinecdn.bili33.top/dingtalk/emotion_107.png)  |                                                              |
+| [QQ官方表情](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/QQ) | [钉钉官方表情](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/dingtalk) |                                                              |
 
 ### 免责声明
 本仓库内所有图片均来源于网络，仅供学习交流使用。若用户违反相关法律法规造成损失，将由用户自行承担，本仓库所有者和PR提交者不承担一切责任！

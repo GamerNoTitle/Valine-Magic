@@ -2,6 +2,10 @@
 
 ![](https://data.jsdelivr.com/v1/package/gh/GamerNoTitle/ValineCDN/badge) ![](https://img.shields.io/github/last-commit/GamerNoTitle/Valine-Magic?style=for-the-badge) ![](https://img.shields.io/github/repo-size/GamerNoTitle/ValineCDN?style=for-the-badge)
 
+**访问量**（自2020.10.25 11:00:00）
+
+![](https://count.getloli.com/get/@GamerNoTitle@Valine-Magic?theme=gelbooru)
+
 点击对应的表情名可以直接到达表情列表，请注意：你在使用本仓库内的表情时请将Valine的CDN设置为下面表格中的任意一个
 
 在线详细情况可以点击[issue#6](https://github.com/GamerNoTitle/Valine-Magic/issues/6)进行查看

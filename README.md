@@ -1,4 +1,6 @@
 # Valine-Magic
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic?ref=badge_shield)
+
 
 ![](https://data.jsdelivr.com/v1/package/gh/GamerNoTitle/ValineCDN/badge) ![](https://img.shields.io/github/last-commit/GamerNoTitle/Valine-Magic?style=for-the-badge) ![](https://img.shields.io/github/repo-size/GamerNoTitle/ValineCDN?style=for-the-badge)
 
@@ -71,3 +73,7 @@
 ### 免责声明
 本仓库内所有图片均来源于网络，仅供学习交流使用。若用户违反相关法律法规造成损失，将由用户自行承担，本仓库所有者和PR提交者不承担一切责任！
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic?ref=badge_large)

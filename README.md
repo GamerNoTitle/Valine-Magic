@@ -62,7 +62,6 @@
       })
     </script>
 </body>
-</html>
 
 ```
 

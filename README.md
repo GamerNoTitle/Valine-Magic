@@ -8,6 +8,8 @@
 
 点击对应的表情名可以直接到达表情列表，请注意：你在使用本仓库内的表情时请将Valine的CDN设置为下面表格中的任意一个
 
+**已经适配MiniValine**[#8](https://github.com/GamerNoTitle/Valine-Magic/issues/8)，有问题请使用issue反馈
+
 在线详细情况可以点击[issue#6](https://github.com/GamerNoTitle/Valine-Magic/issues/6)进行查看
 
 [更新日志](https://github.com/GamerNoTitle/Valine-Magic/tree/master/docs/Update.md)
@@ -20,6 +22,8 @@
 | [Github](https://stats.bili33.top/785622715) | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   |    非常快    |                   有可能会崩服                    |
 | [Coding](https://stats.bili33.top/785622717) | https://mirrorcdn.bili33.top/                                | 链接短，较快 | 有CloudFlare的301跳转作为统计，Coding服务器总是崩 |
 | [Coding](https://stats.bili33.top/785622720) | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |     较快     |                Coding服务器总是崩                 |
+
+### Valine
 
 复制的列表可以直接复制到例如[butterfly](https://github.com/jerryc127/hexo-theme-butterfly)主题的`valine.json`内，或者是各种用于放Valine表情配置的地方
 
@@ -40,6 +44,27 @@
 仓库内的那个PY脚本是我提前编写好用来写表情列表的脚本，如果你有需要可以随意取用
 
 这里有跟本项目同类型的表情仓库，如果在本仓库未找到你想要的表情包可以到这里找 [表情速查](https://www.antmoe.ml/)
+
+### MiniValine
+
+直接复制每个分类中的MiniValine所提供的链接（其中`https://valinecdn.bili33.top/`可以替换为任意CDN链接（见上表）），然后放在`emotionUrl`里面即可，请注意遵循列表写法，如：
+
+```html
+<body>
+    <div class="mvcomment"></div>
+    <script>
+      new MiniValine({
+          el: '.mvcomment',
+          appId: 'appId',
+          appKey: 'appKey',
+          placeholder: 'Write a Comment O(∩_∩)O~~',
+          emotionUrl: ['https://valinecdn.bili33.top/alu','https://valinecdn.bili33.top/bilibiliHotKey']
+      })
+    </script>
+</body>
+</html>
+
+```
 
 ### 表情分类
 

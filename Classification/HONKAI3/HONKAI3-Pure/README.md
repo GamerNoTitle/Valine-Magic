@@ -1,5 +1,9 @@
 # 崩坏3 纯色表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/HONKAI3-Pure`
+
 ```json
 {
 "HONKAI3-Pure1": "HONKAI3-Pure/1.gif",

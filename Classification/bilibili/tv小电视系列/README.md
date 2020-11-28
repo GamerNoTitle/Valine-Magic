@@ -1,5 +1,9 @@
 # 哔哩哔哩小电视系列
 
+MiniValine:
+
+`https://valinecdn.bili33.top/bilibilitv`
+
 ```json
 {
 "bilibilitv2": "bilibilitv/[tv_doge].png",

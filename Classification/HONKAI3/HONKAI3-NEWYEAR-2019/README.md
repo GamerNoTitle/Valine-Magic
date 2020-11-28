@@ -1,5 +1,9 @@
 # 崩坏3 2019新年表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/HONKAI3-NEWYEAR-2019`
+
 ```json
 {
 "HONKAI3-NEWYEAR-20191": "HONKAI3-NEWYEAR-2019/071bbe280b49a56f56673ca77a184c1a291e9afc.gif",

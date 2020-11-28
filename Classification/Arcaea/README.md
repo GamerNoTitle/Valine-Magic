@@ -1,5 +1,9 @@
 # Arcaea表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Arcaea`
+
 ```json
 {
 "Arcaea1": "Arcaea/184064198.png",

@@ -2,6 +2,10 @@
 
 酷安应用里的表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Coolapk`
+
 ```json
 {
 "Coolapk2": "Coolapk/coolapk_emotion_100_qqdoge.png",

@@ -2,6 +2,10 @@
 
 LINE上名为Yurui-Neko的贴纸包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Yurui-Neko`
+
 ```json
 {
 "Yurui-Neko1": "Yurui-Neko/001.png",

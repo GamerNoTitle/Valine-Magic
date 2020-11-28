@@ -21,7 +21,10 @@
 
 ### 表情显示不出来
 
-请你在下面列出显示不出来的表情名（具体表现为`customxxx`，点击显示不出来的图标的时候在valine里面会写作`:customxxx:`，就是这个），请按下面这种方式写：
+请你在下面列出显示不出来的表情名（具体表现为`xxx`，点击显示不出来的图标的时候在valine里面会写作`:xxx:`，就是这个），请按下面这种方式写，并说明你使用的是`MiniValine`还是`Valine`（请将你使用的系统名字左边的中括号中的空格改成`x`：
+
+- [ ] MiniValine
+- [ ] Valine
 
 custom1
 
@@ -31,7 +34,7 @@ custom2
 
 ---
 
-### 用在Valine上有BUG
+### 用在Valine/MiniValine上有BUG
 
 请你在下面说明是什么BUG哦~顺带请你告诉我要如何复现Thanks♪(･ω･)ﾉ
 

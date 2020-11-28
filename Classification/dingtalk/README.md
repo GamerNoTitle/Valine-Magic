@@ -2,6 +2,10 @@
 
 钉钉官方表情包，由[@huanght1997](https://github.com/huanght1997)共享
 
+MiniValine:
+
+`https://valinecdn.bili33.top/dingtalk`
+
 ```json
 {
 "dingtalk2": "dingtalk/emotion_001.png",

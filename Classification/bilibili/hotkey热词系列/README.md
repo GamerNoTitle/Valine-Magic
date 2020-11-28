@@ -1,5 +1,9 @@
 # 哔哩哔哩热词系列
 
+MiniValine:
+
+`https://valinecdn.bili33.top/bilibiliHotKey`
+
 ```json
 {
 "bilibiliHotKey1": "bilibiliHotKey/1.jpg",

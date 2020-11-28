@@ -2,6 +2,10 @@
 
 由ジョイネット所创作的LINE表情包《メンヘラちゃん。》及其衍生作品的登场角色
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Menhera-chan`
+
 ```json
 {
 "Menhera-chan1": "Menhera-chan/1.jpg",

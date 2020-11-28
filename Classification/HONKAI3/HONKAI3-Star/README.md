@@ -1,5 +1,9 @@
 # 崩坏3 观星系列表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/HONKAI3-Star`
+
 ```json
 {
 "HONKAI3-Star1": "HONKAI3-Star/1.gif",

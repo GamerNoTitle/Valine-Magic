@@ -1,5 +1,9 @@
 # 崩坏3 爱酱表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/HONKAI3-AIChan`
+
 ```json
 {
 "HONKAI3-AIChan1": "HONKAI3-AIChan/12bcb0ea6827654841cfc26a04184188d3bf3c13.gif",

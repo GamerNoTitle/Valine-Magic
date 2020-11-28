@@ -1,5 +1,9 @@
 # 嗷大喵表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/aodamao`
+
 ```json
 {
 "aodamiao1": "aodamiao/01.gif",

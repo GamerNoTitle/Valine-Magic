@@ -2,6 +2,10 @@
 
 2020/7/18更新，由[@microlong666](https://github.com/microlong666)从百度贴吧apk提取的百度贴吧表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Tieba-New`
+
 ```json
 {
 "Tieba-New2": "Tieba-New/image_emoticon.png",

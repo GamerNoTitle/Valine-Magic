@@ -1,5 +1,9 @@
 # 崩坏3 芽衣的修行 网页活动表情
 
+MiniValine:
+
+`https://valinecdn.bili33.top/HONGKAI3-MEI`
+
 ```json
 {
 "HONKAI3-MEI1": "HONKAI3-MEI/501ac209b259bb545dea898838c24229483fcfeb.gif",

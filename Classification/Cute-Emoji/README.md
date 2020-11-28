@@ -2,6 +2,10 @@
 
 LINE上面的名为Cute-Emoji的贴纸包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Cute-Emoji`
+
 ```json
 {
 "Cute-Emoji1": "Cute-Emoji/001.png",

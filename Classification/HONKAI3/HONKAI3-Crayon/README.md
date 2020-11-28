@@ -1,5 +1,9 @@
 # 崩坏3 蜡笔系列表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/HONKAI3-Crayon`
+
 ```json
 {
 "HONKAI3-Crayon1": "HONKAI3-Crayon/1.gif",

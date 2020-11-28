@@ -4,6 +4,10 @@ LINE上[Qiaooo](https://store.line.me/emojishop/author/680646/zh-Hans)的[Conven
 
 https://store.line.me/emojishop/product/5ee472b6d01e105f9d4e6993/zh-Hans
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Convenience-Store-Notes2`
+
 ```json
 {
 "Convenience-Store-Notes21": "Convenience-Store-Notes2/001.png",

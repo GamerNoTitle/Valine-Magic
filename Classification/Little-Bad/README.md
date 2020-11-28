@@ -1,5 +1,9 @@
 # 小坏坏 Little-Bad 系列表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Little-Bad`
+
 由Github[@kukudexiaoxiaomaya](https://github.com/kukudexiaoxiaomaya)提供
 
 ```json

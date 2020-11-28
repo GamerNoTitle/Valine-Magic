@@ -2,6 +2,10 @@
 
 来自LINE的表情包，作者是佐治
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Sweetie-Bunny`
+
 ```json
 {
 "Sweetie-Bunny1": "Sweetie-Bunny/12311678.png",

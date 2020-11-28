@@ -2,6 +2,10 @@
 
 LINE上面名为Marup的贴纸包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Marup`
+
 ```json
 {
 "Marup1": "Marup/001.png",

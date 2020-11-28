@@ -1,5 +1,9 @@
 # 崩坏3 史丹表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/HONKAI3-Stan`
+
 ```json
 {
 "HONKAI3-Stan1": "HONKAI3-Stan/15214d9eece7e739f8cc764233c26dd981678f34.gif",

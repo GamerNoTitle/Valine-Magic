@@ -1,5 +1,9 @@
 # lengtu冷兔表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/lengtu`
+
 ```json
 {
 "lengtu1": "lengtu/01.gif",

@@ -2,6 +2,10 @@
 
 PS：表情包来自LINE，画师甘城なつき的つり目獣耳スタンプ贴纸包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Tsuri-me-ju-mimi`
+
 ```json
 {
 "Tsuri-me-ju_mimi1": "Tsuri-me-ju_mimi/10753776_key@2x.png",

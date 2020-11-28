@@ -1,5 +1,9 @@
 # 微博原生表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/weibo`
+
 ```json
 {
 "weibo2": "weibo/d_aoteman.png",

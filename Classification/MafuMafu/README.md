@@ -1,5 +1,9 @@
 # 動く！まふまふスタンプ（ねこ） Mafumafu Animation sticker (cat) by まふまふ(MafuMafu)
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Mafumafu`
+
 ```json
 {
 "Mafumafu1": "Mafumafu/199749454.png",

@@ -1,5 +1,9 @@
 # 哔哩哔哩2233娘系列
 
+MiniValine:
+
+`https://valinecdn.bili33.top/bilibili2233`
+
 ```json
 {
 "bilibili22332": "bilibili2233/[2233娘_卖萌].png",

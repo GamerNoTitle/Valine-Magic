@@ -2,6 +2,10 @@
 
 LINE上名为Set667的贴纸包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Set667`
+
 ```json
 {
 "Set6671": "Set667/001.png",

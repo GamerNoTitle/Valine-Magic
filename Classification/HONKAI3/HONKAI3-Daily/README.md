@@ -1,5 +1,9 @@
 # 崩坏3 日常系列表情包
 
+MiniValine:
+
+`https://valinecdn.bili33.top/HONKAI3-Daily`
+
 ```json
 {
 "HONKAI3-Daily1": "HONKAI3-Daily/1.gif",

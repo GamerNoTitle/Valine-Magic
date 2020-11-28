@@ -1,4 +1,9 @@
 # Alu系列
+
+MiniValine:
+
+`https://valinecdn.bili33.top/alu`
+
 ```json
 {
 "alu2": "alu/不出所料.png",

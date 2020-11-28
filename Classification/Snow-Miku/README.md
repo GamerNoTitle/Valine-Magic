@@ -1,5 +1,9 @@
 # Snow-Miku雪初音表情包（LINE）
 
+MiniValine:
+
+`https://valinecdn.bili33.top/Snow-Miku`
+
 ```json
 {
 "Snow-Miku1": "Snow-Miku/3583066@2x.png",

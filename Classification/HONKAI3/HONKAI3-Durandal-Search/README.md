@@ -1,5 +1,9 @@
 # 崩坏3 目标！幽兰黛尔调查 网页活动表情
 
+MiniValine:
+
+`https://valinecdn.bili33.top/HONKAI3-Durandal-Search`
+
 ```json
 {
 "HONKAI3-Durandal-Search1": "HONKAI3-Durandal-Search/041f90df17c5aab87380486fd6f320cb18918d31.gif",

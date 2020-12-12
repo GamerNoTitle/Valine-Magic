@@ -12,7 +12,7 @@
 
 在线详细情况可以点击[issue#6](https://github.com/GamerNoTitle/Valine-Magic/issues/6)进行查看
 
-[更新日志](https://github.com/GamerNoTitle/Valine-Magic/tree/master/docs/Update.md)
+[更新日志](https://github.com/GamerNoTitle/Valine-Magic/discussions?discussions_q=category%3A%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
 
 你可以提交表情包，请阅读[提交的正确方式](https://github.com/GamerNoTitle/Valine-Magic/tree/master/docs/Submit.md)
 

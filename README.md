@@ -18,12 +18,12 @@
 
 你可以提交表情包，请阅读[提交的正确方式](https://github.com/GamerNoTitle/Valine-Magic/tree/master/docs/Submit.md)
 
-|        CDN服务器（点击可看在线状态）         | CDN链接                                                      |     优势     |                       劣势                        |
-| :------------------------------------------: | :----------------------------------------------------------- | :----------: | :-----------------------------------------------: |
-| [Github](https://stats.bili33.top/785622714) | https://valinecdn.bili33.top/                                |  链接短，快  |    有CloudFlare的301跳转作为统计，有可能会崩服    |
-| [Github](https://stats.bili33.top/785622715) | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   |    非常快    |                   有可能会崩服                    |
-| [Coding](https://stats.bili33.top/785622717) | https://mirrorcdn.bili33.top/                                | 链接短，较快 | 有CloudFlare的301跳转作为统计，Coding服务器总是崩 |
-| [Coding](https://stats.bili33.top/785622720) | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |     较快     |                Coding服务器总是崩                 |
+| [服务器](https://valinecdn-status.bili33.top/)（点击可看在线状态） | CDN链接                                                      |                                                              |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | ------------------------------------------------------------ |
+|                            Github                            | https://valinecdn.bili33.top/                                | [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/59za.svg)](https://betteruptime.com/?utm_source=status_badge) |
+|                            Github                            | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   | [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/5szl.svg)](https://betteruptime.com/?utm_source=status_badge) |
+|                            Coding                            | https://mirrorcdn.bili33.top/                                | [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/59zb.svg)](https://betteruptime.com/?utm_source=status_badge) |
+|                            Coding                            | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ | [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/5szm.svg)](https://betteruptime.com/?utm_source=status_badge) |
 
 ### Valine
 

@@ -18,7 +18,7 @@
 
 你可以提交表情包，请阅读[提交的正确方式](https://github.com/GamerNoTitle/Valine-Magic/tree/master/docs/Submit.md)
 
-| [服务器](https://valinecdn-status.bili33.top/)（点击可看在线状态） | CDN链接                                                      |                                                              |
+| [服务器](https://valinecdn-status.bili33.top/)（点击可看在线状态） | CDN链接                                                      | 服务状态显示                                                 |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | ------------------------------------------------------------ |
 |                            Github                            | https://valinecdn.bili33.top/                                | [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/59za.svg)](https://betteruptime.com/?utm_source=status_badge) |
 |                            Github                            | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   | [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/5szl.svg)](https://betteruptime.com/?utm_source=status_badge) |

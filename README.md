@@ -97,9 +97,12 @@
 | [魔女之旅Majotabi（官方）](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Majotabi) |                                                              |                                                              |
 
 ### 免责声明
+
 本仓库内所有图片均来源于网络，仅供学习交流使用。若用户违反相关法律法规造成损失，将由用户自行承担，本仓库所有者和PR提交者不承担一切责任！
 
+### 历史STAR
 
+![](http://starchart.cc/GamerNoTitle/Valine-Magic.svg)
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic?ref=badge_large)

@@ -25,7 +25,7 @@
 | Coding [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/59zb.svg)](https://betteruptime.com/?utm_source=status_badge) | https://mirrorcdn.bili33.top/                                |
 | Coding [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/5szm.svg)](https://betteruptime.com/?utm_source=status_badge) | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |
 
-### Valine
+### Valine/Waline
 
 复制的列表可以直接复制到例如[butterfly](https://github.com/jerryc127/hexo-theme-butterfly)主题的`valine.json`内，或者是各种用于放Valine表情配置的地方
 

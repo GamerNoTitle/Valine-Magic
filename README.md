@@ -8,7 +8,7 @@
 
 点击对应的表情名可以直接到达表情列表，请注意：你在使用本仓库内的表情时请将Valine的CDN设置为下面表格中的任意一个
 
-**本仓库不适配Twikoo，如需Twikoo表情请访问[https://github.com/2X-ercha/Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic)**
+**本仓库不适配Twikoo，如需Twikoo表情请访问[https://github.com/2X-ercha/Twikoo-and-HexoPlusPlus-Magic](https://github.com/2X-ercha/Twikoo-and-HexoPlusPlus-Magic)**
 
 **已经适配MiniValine**[#8](https://github.com/GamerNoTitle/Valine-Magic/issues/8)，有问题请使用issue反馈
 

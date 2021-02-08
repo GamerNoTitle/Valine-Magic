@@ -8,6 +8,8 @@
 
 点击对应的表情名可以直接到达表情列表，请注意：你在使用本仓库内的表情时请将Valine的CDN设置为下面表格中的任意一个
 
+**本仓库不适配Twikoo，如需Twikoo表情请访问[https://github.com/2X-ercha/Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic)**
+
 **已经适配MiniValine**[#8](https://github.com/GamerNoTitle/Valine-Magic/issues/8)，有问题请使用issue反馈
 
 在线详细情况可以点击[issue#6](https://github.com/GamerNoTitle/Valine-Magic/issues/6)进行查看
@@ -16,14 +18,14 @@
 
 你可以提交表情包，请阅读[提交的正确方式](https://github.com/GamerNoTitle/Valine-Magic/tree/master/docs/Submit.md)
 
-|        CDN服务器（点击可看在线状态）         | CDN链接                                                      |     优势     |                       劣势                        |
-| :------------------------------------------: | :----------------------------------------------------------- | :----------: | :-----------------------------------------------: |
-| [Github](https://stats.bili33.top/785622714) | https://valinecdn.bili33.top/                                |  链接短，快  |    有CloudFlare的301跳转作为统计，有可能会崩服    |
-| [Github](https://stats.bili33.top/785622715) | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   |    非常快    |                   有可能会崩服                    |
-| [Coding](https://stats.bili33.top/785622717) | https://mirrorcdn.bili33.top/                                | 链接短，较快 | 有CloudFlare的301跳转作为统计，Coding服务器总是崩 |
-| [Coding](https://stats.bili33.top/785622720) | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |     较快     |                Coding服务器总是崩                 |
+| [服务器](https://valinecdn-status.bili33.top/)（点击可看在线状态） | CDN链接                                                      |
+| :----------------------------------------------------------: | :----------------------------------------------------------- |
+| Github [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/59za.svg)](https://betteruptime.com/?utm_source=status_badge) | https://valinecdn.bili33.top/                                |
+| Github [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/5szl.svg)](https://betteruptime.com/?utm_source=status_badge) | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   |
+| Coding [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/59zb.svg)](https://betteruptime.com/?utm_source=status_badge) | https://mirrorcdn.bili33.top/                                |
+| Coding [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/5szm.svg)](https://betteruptime.com/?utm_source=status_badge) | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |
 
-### Valine
+### Valine/Waline
 
 复制的列表可以直接复制到例如[butterfly](https://github.com/jerryc127/hexo-theme-butterfly)主题的`valine.json`内，或者是各种用于放Valine表情配置的地方
 
@@ -95,9 +97,12 @@
 | [魔女之旅Majotabi（官方）](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Majotabi) | [明日方舟表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Arknights) |                                                              |
 
 ### 免责声明
+
 本仓库内所有图片均来源于网络，仅供学习交流使用。若用户违反相关法律法规造成损失，将由用户自行承担，本仓库所有者和PR提交者不承担一切责任！
 
+### 历史STAR
 
+![](http://starchart.cc/GamerNoTitle/Valine-Magic.svg)
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic?ref=badge_large)

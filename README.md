@@ -93,8 +93,8 @@
 | [Coolapk酷安](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Coolapk) | [aodamiao嗷大喵](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/aodamiao) | [lengtu冷兔](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/lengtu) |
 |       ![](https://valinecdn.bili33.top/QQ/tuosai.gif)        |  ![](https://valinecdn.bili33.top/dingtalk/emotion_107.png)  | ![](https://valinecdn.bili33.top/Heybox/expression_heziji_22.png)![](https://valinecdn.bili33.top/Heybox/expression_cube_wa.png) |
 | [QQ官方表情](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/QQ) | [钉钉官方表情](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/dingtalk) | [小黑盒表情包（包括盒娘和方块）](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Heybox) |
-|   ![](https://valinecdn.bili33.top/Majotabi/367516718.png)   | ![](https://valinecdn.bili33.top/Arknights/coffeehouse_01.jpg) |                                                              |
-| [魔女之旅Majotabi（官方）](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Majotabi) | [明日方舟表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Arknights) |                                                              |
+|   ![](https://valinecdn.bili33.top/Majotabi/367516718.png)   | ![](https://valinecdn.bili33.top/Arknights/coffeehouse_01.jpg) |    ![](https://valinecdn.bili33.top/KeQing/8uRU02Qn.png)     |
+| [魔女之旅Majotabi（官方）](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Majotabi) | [明日方舟表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/Arknights) | [刻晴表情包](https://github.com/GamerNoTitle/Valine-Magic/tree/master/Classification/KeQing) |
 
 ### 免责声明
 

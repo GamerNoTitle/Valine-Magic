@@ -27,7 +27,7 @@
 | Coding [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/59zb.svg)](https://betteruptime.com/?utm_source=status_badge) | https://mirrorcdn.bili33.top/                                |
 | Coding [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/5szm.svg)](https://betteruptime.com/?utm_source=status_badge) | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |
 
-### Valine/Waline
+### Valine
 
 复制的列表可以直接复制到例如[butterfly](https://github.com/jerryc127/hexo-theme-butterfly)主题的`valine.json`内，或者是各种用于放Valine表情配置的地方
 
@@ -49,9 +49,9 @@
 
 这里有跟本项目同类型的表情仓库，如果在本仓库未找到你想要的表情包可以到这里找 [表情速查](https://www.antmoe.ml/)
 
-### MiniValine
+### MiniValine/Waline
 
-直接复制每个分类中的MiniValine所提供的链接（其中`https://valinecdn.bili33.top/`可以替换为任意CDN链接（见上表）），然后放在`emotionUrl`里面即可，请注意遵循列表写法，如：
+直接复制每个分类中的MiniValine/Waline所提供的链接（其中`https://valinecdn.bili33.top/`可以替换为任意CDN链接（见上表）），然后放在`emotionUrl`里面即可，请注意遵循列表写法，如：
 
 ```html
 <body>

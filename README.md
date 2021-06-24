@@ -12,6 +12,8 @@
 
 **已经适配MiniValine**[#8](https://github.com/GamerNoTitle/Valine-Magic/issues/8)，有问题请使用issue反馈
 
+**已经适配[Waline最新版写法](https://waline.js.org/guide/client/emoji.html#%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%A2%84%E8%AE%BE)，使用中有问题请通过issue反馈**
+
 在线详细情况可以点击[issue#6](https://github.com/GamerNoTitle/Valine-Magic/issues/6)进行查看
 
 [更新日志](https://github.com/GamerNoTitle/Valine-Magic/discussions?discussions_q=category%3A%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)

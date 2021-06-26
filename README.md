@@ -49,9 +49,9 @@
 
 这里有跟本项目同类型的表情仓库，如果在本仓库未找到你想要的表情包可以到这里找 [表情速查](https://www.antmoe.ml/)
 
-### MiniValine/Waline
+### MiniValine
 
-直接复制每个分类中的MiniValine/Waline所提供的链接（其中`https://valinecdn.bili33.top/`可以替换为任意CDN链接（见上表）），然后放在`emotionUrl`里面即可，请注意遵循列表写法，如：
+直接复制每个分类中的MiniValine所提供的链接（其中`https://valinecdn.bili33.top/`可以替换为任意CDN链接（见上表）），然后放在`emotionUrl`里面即可，请注意遵循列表写法，如：
 
 ```html
 <body>
@@ -68,6 +68,25 @@
 </body>
 
 ```
+
+### Waline
+
+直接复制与`MiniValine`相同的链接使用即可（懒得在每一个分类下的MiniValine后面加上Waline了），放在emoji列表中使用，例如
+
+```javascript
+Waline({
+  el: '#waline',
+  serverURL: '<YOUR SERVER URL>',
+
+  // 设置 emoji 为微博与哔哩哔哩
+  emoji: [
+    'https://valinecdn.bili33.top/bilibiliHotKey',
+    'https://valinecdn.bili33.top/bilibilitv',
+  ],
+});
+```
+
+或者你也可以使用旧版方式（不推荐，Waline将来可能砍掉这种格式），将Valine的配置复制到emoji表即可！（这里就不做例子了，毕竟我没有用Waline）
 
 ### 表情分类
 

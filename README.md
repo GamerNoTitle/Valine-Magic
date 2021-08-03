@@ -1,4 +1,4 @@
-# Valine-Magic
+<div align='center'><img src='https://socialify.git.ci/GamerNoTitle/Valine-Magic/image?description=1&descriptionEditable=%E2%9C%A8Valine%2FMiniValine%2FWaline%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A1%A8%E6%83%85%E5%88%97%E8%A1%A8%EF%BC%8C%E4%B8%BA%E4%BD%A0%E7%9A%84%E8%A1%A8%E6%83%85%E5%BA%93%E2%80%9C%E5%96%9C%E5%8A%A0%E4%BA%BF%E2%80%9D&font=Inter&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light'></div>
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic?ref=badge_shield) ![](https://data.jsdelivr.com/v1/package/gh/GamerNoTitle/ValineCDN/badge) ![](https://img.shields.io/github/last-commit/GamerNoTitle/Valine-Magic?style=for-the-badge) ![](https://img.shields.io/github/repo-size/GamerNoTitle/ValineCDN?style=for-the-badge) 
 

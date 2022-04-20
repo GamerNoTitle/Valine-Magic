@@ -22,10 +22,12 @@
 
 | [服务器](https://valinecdn-status.bili33.top/)（点击可看在线状态） | CDN链接                                                      |
 | :----------------------------------------------------------: | :----------------------------------------------------------- |
-| Github [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/59za.svg)](https://betteruptime.com/?utm_source=status_badge) | https://valinecdn.bili33.top/                                |
-| Github [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/5szl.svg)](https://betteruptime.com/?utm_source=status_badge) | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   |
-| Coding [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/59zb.svg)](https://betteruptime.com/?utm_source=status_badge) | https://mirrorcdn.bili33.top/                                |
-| Coding [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/5szm.svg)](https://betteruptime.com/?utm_source=status_badge) | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |
+| Github | https://valinecdn.bili33.top/                                |
+| Github | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   |
+| Coding | https://mirrorcdn.bili33.top/                                |
+| Coding | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |
+
+**因为jsdelivr的备案号被取消，故不再推荐使用jsdelivr的链接；可能以后会增加新的图源链接，但是现在推荐使用coding的**
 
 ### Valine
 

@@ -27,7 +27,7 @@
 |            Coding            | https://mirrorcdn.bili33.top/                                |
 |            Coding            | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |
 |        Direct（直连）        | https://valine-emoji.bili33.top/                             |
-| 个人jsdelivr反代（请勿滥用） | https://cdn.bilicdn.tk/                                      |
+| 个人jsdelivr反代（请勿滥用） | https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/     |
 
 **因为jsdelivr的备案号被取消，故不再推荐使用jsdelivr的链接；可能以后会增加新的图源链接，但是现在推荐使用coding的**
 

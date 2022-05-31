@@ -20,13 +20,14 @@
 
 你可以提交表情包，请阅读[提交的正确方式](https://github.com/GamerNoTitle/Valine-Magic/tree/master/docs/Submit.md)
 
-|     服务器     | CDN链接                                                      |
-| :------------: | :----------------------------------------------------------- |
-|     Github     | https://valine-emoji.bili33.top/                             |
-|     Github     | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   |
-|     Coding     | https://mirrorcdn.bili33.top/                                |
-|     Coding     | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |
-| Direct（直连） | https://valine-emoji.bili33.top/                             |
+|            服务器            | CDN链接                                                      |
+| :--------------------------: | :----------------------------------------------------------- |
+|            Github            | https://valine-emoji.bili33.top/                             |
+|            Github            | https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/   |
+|            Coding            | https://mirrorcdn.bili33.top/                                |
+|            Coding            | https://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ |
+|        Direct（直连）        | https://valine-emoji.bili33.top/                             |
+| 个人jsdelivr反代（请勿滥用） | https://cdn.bilicdn.tk/                                      |
 
 **因为jsdelivr的备案号被取消，故不再推荐使用jsdelivr的链接；可能以后会增加新的图源链接，但是现在推荐使用coding的**
 
